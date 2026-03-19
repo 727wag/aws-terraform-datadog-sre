@@ -27,7 +27,9 @@ Se você rodar esse código de primeira, ele vai funcionar liso. Mas até chegar
 
 Aqui está a prova do crime, a máquina reportando o uso de CPU bonitinho no mapa de hosts:
 
-![Coloque-o-print-da-bolinha-de-3-porcento-aqui](link-da-imagem)
+<img width="1919" height="926" alt="datadog" src="https://github.com/user-attachments/assets/e77a2da7-ca99-4865-be7f-9b9055a76f73" />
+<img width="1919" height="926" alt="dashboard-datadog" src="https://github.com/user-attachments/assets/613661e6-5611-42c9-aa78-cdabd26730fb" />
+
 
 ## 🚀 Como testar aí na sua máquina
 
