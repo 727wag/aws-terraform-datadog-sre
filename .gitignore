@@ -1,0 +1,20 @@
+# --- TERRAFORM ---
+# Pasta de plugins e binários (muito pesada)
+.terraform/
+
+# Arquivos de estado (Contêm o "mapa" da sua infra e podem ter segredos)
+*.tfstate
+*.tfstate.*
+
+# Arquivo de bloqueio de dependências
+.terraform.lock.hcl
+
+# --- VARIÁVEIS SENSÍVEIS ---
+# Onde você guardou seu IP e as chaves do Datadog
+*.tfvars
+*.tfvars.json
+secret.tfvars
+
+# --- LOGS E TEMPORÁRIOS ---
+*.log
+.terraform.tfstate.lock.info
